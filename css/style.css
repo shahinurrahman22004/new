@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    margin: 40px 0;
+}
+
+img {
+    width: 100%;
+    padding-bottom: 60px;
+}
+
+/* paragraph area  */
+.top-area {
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 30px;
+}
+
+/* button style  */
+button:hover {
+    color: #fff;
+    background-color: rgb(77, 132, 233);
+}
+section button {
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: .36s;
+}
+
+/* middle area all chose button style here  */
+.tbl h4 {
+    display: inline;
+    font-size: 18px;
+    font-weight: 700;
+}
+.normal-storage{
+    margin-bottom: 10px;
+}
+
+.free-delivery{
+    margin-bottom: 10px;
+}
+
+/* bottom area total price style here  */
+hr{
+    width: 100%;
+    color: rgb(221, 219, 219);
+}
+hr.bold-hr{
+    width: 100%;
+    padding: 1px 0;
+    color: black;
+}
+
+h4.frist {
+    margin-right: 182px;
+}
+
+h4.second {
+    margin-right: 105px;
+}
+
+h4.therd {
+    margin-right: 112px;
+}
+
+h4.forth {
+    margin-right: 135px;
+}
+
+h4.fifty {
+    margin-right: 180px;
+}
+
+/* padding style here  */
+.bottom-area {
+    padding-top: 50px;
+}
+
+.memory {
+    padding-bottom: 25px;
+}
+
+.storage {
+    padding-bottom: 25px;
+}
+
+/* footer area ---- */
+footer {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.pomo-code {
+    margin-top: 25px;
+}
+.pomo-code input {
+    padding: 5px 20px;
+}
+
+
